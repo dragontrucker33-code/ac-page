@@ -141,3 +141,17 @@ h2 {
     height: 85px;
   }
 }
+
+
+.footer-logo{
+  width: 75px;
+  height: 75px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  background: #40E0D0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
